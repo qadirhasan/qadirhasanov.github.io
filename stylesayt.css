@@ -1,0 +1,75 @@
+body{
+    background:url("../images/background-black-clouds-696680.lnk")
+
+
+}
+  img src{
+
+      height:960;
+      width:300;
+  }
+    
+
+   
+li{
+    display: inline;
+    padding: 15px;
+}
+.main{
+    padding:15px;
+    margin:0; 
+}
+.wrapper{
+    width:960px;
+    margin: auto;
+    text-align: justify;
+    
+    background:white;
+    
+}
+.menu>ul{
+    background: #d9dbb1;
+    height: 40;
+    margin: 0 0 10px 0;
+}
+.menu>ul li{
+    margin:10px;
+}
+a:link,a:visited,a:active{
+    text-decoration: none;
+    color:grey;
+
+}
+a:hover{
+    color:white;
+}
+.menu>ul li:hover{
+    background:grey;
+    cursor: pointer;
+}
+.footer{
+    background: black;
+    color:grey
+    padding: 10px;
+    text-align: center;
+}
+.textj+div{
+    background:grey;
+    margin-top: 35px;
+    border-top:1px solid;
+    padding: 25px;
+}
+.card{
+    margin:auto;
+    
+
+    
+}
+.card:hover{
+    cursor: pointer;
+    border:1px solid grey
+}
+.hasan{
+    background: white;
+    text-align: center;
+}
